@@ -6,7 +6,7 @@
 ![Platform](https://img.shields.io/badge/platform-ESP8266%20%7C%20ESP--12E%2FF-blue)
 ![Status](https://img.shields.io/badge/status-hardware%20verified-brightgreen)
 
-![Orbit watch](docs/images/orbit-watch.png)
+![Orbit watch](docs/images/orbit-watch.jpg)
 *Orbit, worn and running*
 
 ---
@@ -101,7 +101,7 @@ This is AI-reconstructed for a visual preview — not dimensionally exact. The B
 
 ## Gallery
 
-![Orbit packet monitor](docs/images/orbit-packet-monitor.png)
+![Orbit packet monitor](docs/images/orbit-packet-monitor.jpg)
 *Live WiFi channel activity monitor, running on the assembled watch*
 
 ---
