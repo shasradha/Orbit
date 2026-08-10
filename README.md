@@ -138,8 +138,10 @@ A 3D reconstruction of the Orbit enclosure, built from real device photos and re
 This is an AI-assisted reconstruction for visual reference only — it is **not dimensionally exact**. The Blender source file is in [`hardware/3d/`](./hardware/3d) for anyone who wants to inspect or rebuild it.
 
 <div align="center">
-<img src="docs/images/orbit-3d-render.png" alt="Orbit 3D render" width="500"/>
+<img src="docs/images/Orbit-3D-render.png" alt="Orbit 3D render" width="500"/>
 </div>
+
+https://github.com/user-attachments/assets/320ed174-5218-427d-8676-f516c165184d
 
 ---
 
