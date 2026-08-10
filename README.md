@@ -97,6 +97,8 @@ A 3D model of the Orbit enclosure, reconstructed from real device photos and ref
 
 This is AI-reconstructed for a visual preview — not dimensionally exact. The Blender source file is in [`hardware/3d/`](./hardware/3d) for anyone who wants to inspect or rebuild it.
 
+https://github.com/user-attachments/assets/afbd2fa3-718e-4e3f-a572-90d086ce80c6
+
 ---
 
 ## Gallery
