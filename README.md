@@ -196,7 +196,7 @@ This project is published for **authorized security research and education only*
 ## Credits
 
 - **[Spacehuhn Technologies](https://github.com/SpacehuhnTech)** — original ESP8266 Deauther firmware (MIT License)
-- **Shasradha / Karmakar Industries** — hardware design, KiCad schematics, GPIO remap, and firmware adaptation for the Orbit platform
+- **[Shasradha Karmakar](https://github.com/shasradha)** — hardware design, KiCad schematics, GPIO remap, and firmware adaptation for the Orbit platform
 
 ---
 
