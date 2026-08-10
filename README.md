@@ -49,7 +49,7 @@ This repo covers both halves of the build:
 | Component | Spec |
 |---|---|
 | MCU | ESP-12E / ESP-12F (ESP8266) |
-| Display | 1.3" I2C OLED (SH1106, 128×64) |
+| Display | 0.96" I2C OLED (SSD1306, 128×32) |
 | Buttons | 3× tactile (Up / Down / OK) + Flash + Reset |
 | LED | WS2812B RGB, single pixel |
 | Power | 3.7V single-cell LiPo, no regulator |
@@ -73,7 +73,7 @@ This repo covers both halves of the build:
 | Qty | Part |
 |---|---|
 | 1× | ESP-12E/F module |
-| 1× | 1.3" I2C OLED (SH1106, 128×64) |
+| 1× | 0.96" I2C OLED (SSD1306, 128×32) |
 | 1× | WS2812B RGB LED breakout |
 | 5× | Tactile push buttons |
 | 5× | 10kΩ resistors (boot config + pull-down) |
