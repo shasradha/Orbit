@@ -1,0 +1,30 @@
+# Arduino / ESP8266 build artifacts
+*.elf
+*.map
+build/
+*.bin.signed
+*.bin.legacy_sig
+compile_commands.json
+build.options.json
+includes.cache
+libraries.cache
+.last-used
+sketch/
+
+# KiCad backups/locks/autosave
+*.kicad_sch-bak
+*.kicad_pro-bak
+*-backups/
+fp-info-cache
+*.lck
+_autosave-*
+*~
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor junk
+.vscode/
+*.swp
